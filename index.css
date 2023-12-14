@@ -1,0 +1,42 @@
+
+.bg-container{
+    background-image:url(https://static01.nyt.com/images/2021/12/01/podcasts/01DAILY-amazon-audio-app/01DAILY-amazon-audio-app-videoSixteenByNineJumbo1600-v2.jpg);
+    height: 100vh;
+    background-size: cover;
+
+
+}   
+.card{
+    
+    background-color: rebeccapurple;
+    text-align: center;
+    border-top-left-radius:50px;
+    border-top-right-radius:50px;
+    border-bottom-left-radius:30px;
+    border-bottom-right-radius: 30px;
+    padding: 20px;
+    /* height:100vh;
+    width: 100vw;
+    background-size: cover; */
+}
+.main-heading {
+color: yellowgreen;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size:90px;
+font-weight:initial;
+text-decoration: underline;
+}
+
+.paragraph{
+    color: white;
+    text-align: center;
+}
+.button{
+    height: 40px;
+    width: 140px;
+    color:brown;
+    background-color:chartreuse;
+    border-radius:20px;
+    border-width: 0px;
+    
+}
